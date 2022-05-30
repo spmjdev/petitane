@@ -1,0 +1,61 @@
+{
+  "lng": "Français",
+
+  "titreApplication": "Mes Cheveaux",
+  "menuPrincipal": "Recharger",
+  "menuParametres": "Paramètres",
+
+  "charge0": "Premier lancement des Chevaux",
+  "charge1": "1) Ouverture des box",
+  "charge2": "2) Appel des cavaliers",
+  "charge3": "3) Appel des chevaux",
+  "charge4": "4) Mise à jour",
+
+  "Parametres": "Paramètres",
+  "ParametresMessageNouveauTag":"Nom du nouveau tag",
+  "ParametresMessageMaxTag1":"La limite de ",
+  "ParametresMessageMaxTag2":" tags est atteinte.",
+
+  "TagDefaut1": "A vendre",
+  "TagDefaut2": "Bon état",
+  "TagDefaut3": "Body",
+  "TagDefaut4": "Abimé",
+  "TagDefaut5": "Custom",
+
+  "Fiche_id": "Id",
+  "Fiche_nombre": "Nombre",
+  "Fiche_annee": "Année",
+  "Fiche_nom": "Nom",
+  "Fiche_titre": "Race",
+  "Fiche_description": "Description",
+  "Fiche_imageUrl": "",
+  "Fiche_ytUrl": "",
+  "Fiche_tags": "",
+  "Fiche_info1": "Robe",
+  "Fiche_info2": "Allure",
+  "Fiche_info3": "Marque",
+  "Fiche_info4": "Type",
+  "Fiche_info5": "Sexe",
+  "Fiche_info6": "Ref",
+  "Fiche_info7": "",
+  "Fiche_info8": "",
+  "Fiche_info9": "",
+
+
+  "FicheSaisirNom": "A toi de le choisir...",
+  "FicheSaisirDescrption": "A toi de le décrire...",
+
+  "xxFiches": "Chevaux",
+  "Enregistrer": "Enregistrer",
+  "BoutonVersPressePapier": "Copier ...",
+
+  "menuExportPressePapier" : "Transformer en texte",
+
+  "ExtractionTitre" : "Ta sélection de chevaux :",
+  "ExtractionInfo1" : "Le texte ci dessous peut être copié.",
+  "ExtractionInfo2" : "Il peut être utile pour passer tes petites annonces de recherche ou de vente.",
+
+  "ExtractionEntete" : "Liste des chevaux",
+  "ExtractionMessagePub" :"Cette liste a été générée depuis l'application <Figurines Chevaux> disponible sur Play Store."
+
+}
